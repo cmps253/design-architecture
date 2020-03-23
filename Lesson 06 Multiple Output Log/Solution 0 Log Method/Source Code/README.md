@@ -1,4 +1,4 @@
-<img style="float: right;" src="../Images/aublogosmall.png"> 
+<img style="float: right;" src="../../../Images/aublogosmall.png"> 
 
 **CMPS 253 Software Engineering - Spring 2019-2020 \
 American University of Beirut \
