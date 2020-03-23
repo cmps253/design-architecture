@@ -28,7 +28,7 @@ ____
 [Lesson 7.1: Configuration File](./Lesson%2007%20Dynamic%20Log%20Output/Solution%201%20Configuration%20File/Source%20Code) \
 [Lesson 7.2: Environment Variables](./Lesson%2007%20Dynamic%20Log%20Output/Solution%202%20Environment%20Variables/Source%20Code) 
 ____
-[Lesson 8: Uniform Log Formatting *(Inheritance)*](./Lesson%2008%20Uniform%20Log%20Formatting/Source%20Code) 
+
 
 ###### Credits
 <div style='font-size:.5em;'>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
