@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Lesson3</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConsoleLogger\ConsoleLogger.csproj" />
+    <ProjectReference Include="..\FileLogger\FileLogger.csproj" />
+  </ItemGroup>
+
+</Project>

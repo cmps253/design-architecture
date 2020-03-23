@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Driver": {
+      "commandName": "Project",
+      "commandLineArgs": "--target=c"
+    }
+  }
+}
