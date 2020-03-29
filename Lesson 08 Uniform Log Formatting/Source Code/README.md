@@ -5,7 +5,7 @@ American University of Beirut \
 Mahmoud Bdeir**
 
 
-## Lesson 8: Customizable Log Output Formatting (<font size=7>D</font>on't <font size=7>R</font>epeat <font size=7>Y</font>ourself)
+## Lesson 8.0: Customizable Log Output Formatting (<font size=7>D</font>on't <font size=7>R</font>epeat <font size=7>Y</font>ourself)
 <a href="./"><img src='../../Images/code.png'> Source Code</a>
 
 #### User Story 4: Customizable Log Output Formatting
