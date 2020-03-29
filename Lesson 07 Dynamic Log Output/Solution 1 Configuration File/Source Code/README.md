@@ -169,6 +169,6 @@ ____
 <tr>
 <td><a href="../../Solution%200%20Command-Line%20Argument/Source%20Code"><img src='../../../Images/leftarrow.png'> Back</a></td>
 <td width="100%"></td>
-<td><a href="../../../tree/master/Lesson%2003%20Logger%20Class"><img src='../../../Images/rightarrow.png'> Next</a></td>
+<td><a href="../../Solution%202%20Environment%20Variables/Source%20Code"><img src='../../../Images/rightarrow.png'> Next</a></td>
 </tr>
 </table>
