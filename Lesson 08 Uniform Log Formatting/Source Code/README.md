@@ -5,7 +5,7 @@ American University of Beirut \
 Mahmoud Bdeir**
 
 
-## Lesson 8: Customizable Log Output Formatting (<font size=6>D</font>on't <font size=6>R</font>epeat <font size=6>Y</font>ourself)
+## Lesson 8: Customizable Log Output Formatting (<font size=7>D</font>on't <font size=7>R</font>epeat <font size=7>Y</font>ourself)
 <a href="./"><img src='../../Images/code.png'> Source Code</a>
 
 #### User Story 4: Customizable Log Output Formatting
@@ -23,7 +23,7 @@ Thinking about how we *(the authors of the logger framework)* would implement US
 
 ###### Changing output format requires making a change in two locations
 
-![Lesson 8.0 Deployment Diagram](../images/deployment-Diagram.png)
+![Lesson 8.0 Deployment Diagram](../images/Deployment-Diagram.png)
 
 In essence, we would have to edit/duplicate the following code in all loggers:
 ```C#
