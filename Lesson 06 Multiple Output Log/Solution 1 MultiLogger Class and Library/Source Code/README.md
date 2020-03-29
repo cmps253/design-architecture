@@ -56,7 +56,7 @@ ____
 
 <table style='width=100%;'>
 <tr>
-<td><a href="../../../tree/master/Lesson%2001%20Inline%20Logging"><img src='../../../Images/leftarrow.png'> Back</a></td>
+<td><a href="../../Solution%200%20Log%20Method/Source%20Code"><img src='../../../Images/leftarrow.png'> Back</a></td>
 <td width="100%"></td>
 <td><a href="../../../tree/master/Lesson%2003%20Logger%20Class"><img src='../../../Images/rightarrow.png'> Next</a></td>
 </tr>
