@@ -8,7 +8,7 @@ _________
 
 # Module 6: Software Design & Architecture
 
-[Lesson 1: Inline Logging <span style='color:green;font-size:1em;'>*\(The Need for Reusability\)*</span>](./Lesson%2001%20Inline%20Logging) \
+[Lesson 1: Inline Logging <span style='color:green;font-size:1em;'>*\(The Need for Reusability\)*</span>](./Lesson%2001%20Inline%20Logging/Source%20Code) \
 [Lesson 2: Log Method <span style='color:green;font-size:1em;'>*\(Abstraction Through Methods\)*</span>](./Lesson%2002%20Log%20Method) \
 [Lesson 3: Logger Class <span style='color:green;font-size:1em;'>*\(Abstraction Through Classes\)*</span>](./Lesson%2003%20Logger%20Class) \
 [Lesson 4: Logger Library <span style='color:green;font-size:1em;'>*\(Separation of Concerns\)*</span>](./Lesson%2004%20Logger%20Library) 
