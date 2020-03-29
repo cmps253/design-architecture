@@ -1,4 +1,4 @@
-<img style="float: right;" src="../Images/aublogosmall.png"> 
+<img style="float: right;" src="../../Images/aublogosmall.png"> 
 
 **CMPS 253 Software Engineering - Spring 2019-2020 \
 American University of Beirut \
@@ -33,18 +33,18 @@ namespace Logger.Lesson2
 ```
 
 ###### Class Diagram
-![Lesson 2 Class Diagram](./PlantUML/Class-Diagram.png)
+![Lesson 2 Class Diagram](../PlantUML/Class-Diagram.png)
 ###### Deployment Diagram
-![Lesson 2 Deployment Diagram](./PlantUML/Deployment-Diagram.png)
+![Lesson 2 Deployment Diagram](../PlantUML/Deployment-Diagram.png)
 
 ____
-![problem icon](../Images/problem.png 'Problem') You can use this method in the `Program` class only. How do you share it with other classes? Making the method public allows other classes to call on this method. However, doing so would defeat SRP:
+![problem icon](../../Images/problem.png 'Problem') You can use this method in the `Program` class only. How do you share it with other classes? Making the method public allows other classes to call on this method. However, doing so would defeat SRP:
 > Single Responsibility Principle or SRP: A class should have one, and only one, reason to change.
 
 <table style='width=100%;'>
 <tr>
-<td><a href="../../../tree/master/Lesson%2001%20Inline%20Logging"><img src='../Images/leftarrow.png'> Back</a></td>
+<td><a href="../../../../tree/master/Lesson%2001%20Inline%20Logging"><img src='../../Images/leftarrow.png'> Back</a></td>
 <td width="100%"></td>
-<td><a href="../../../tree/master/Lesson%2003%20Logger%20Class"><img src='../Images/rightarrow.png'> Next</a></td>
+<td><a href="../../../../tree/master/Lesson%2003%20Logger%20Class"><img src='../../Images/rightarrow.png'> Next</a></td>
 </tr>
 </table>
