@@ -216,6 +216,6 @@ ____
 <tr>
 <td><a href="../../Solution%201%20Configuration%20File/Source%20Code"><img src='../../../Images/leftarrow.png'> Back</a></td>
 <td width="100%"></td>
-<td><a href="../../../tree/master/Lesson%2003%20Logger%20Class"><img src='../../../Images/rightarrow.png'> Next</a></td>
+<td><a href="../../../Lesson%2008%20Uniform%20Log%20Formatting/Source%20Code"><img src='../../../Images/rightarrow.png'> Next</a></td>
 </tr>
 </table>
