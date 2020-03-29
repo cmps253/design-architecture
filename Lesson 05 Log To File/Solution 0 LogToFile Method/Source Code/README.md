@@ -56,9 +56,9 @@ namespace Lesson5.Solution0
 ```
 
 ###### Class Diagram
-![Lesson 5 Class Diagram](../PlantUML/Class-Diagram.png)
+![Lesson 5 Class Diagram](../images/Class-Diagram.png)
 ###### Deployment Diagram
-![Lesson 5 Deployment Diagram](../PlantUML/Deployment-Diagram.png)
+![Lesson 5 Deployment Diagram](../images/Deployment-Diagram.png)
 
 _____
 

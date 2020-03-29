@@ -53,9 +53,9 @@ namespace Lesson5.Solution1
 _____
 
 ###### Class Diagram
-![Lesson 5 Class Diagram](../PlantUML/Class-Diagram.png)
+![Lesson 5 Class Diagram](../images/Class-Diagram.png)
 ###### Deployment Diagram
-![Lesson 5 Deployment Diagram](../PlantUML/Deployment-Diagram.png)
+![Lesson 5 Deployment Diagram](../images/Deployment-Diagram.png)
 
 ![problem icon](../../../Images/problem.png 'Problem') Although this solution complies with the SRP design principle, it does not comply with the Separation of Concerns design principle as now we have one library `Logger.dll` that has dual concerns: logging to console and logging to a file.
 

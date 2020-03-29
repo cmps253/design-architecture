@@ -51,9 +51,9 @@ namespace Logger.Solution4
 
 
 ###### Class Diagram
-![Lesson 4 Class Diagram](../PlantUML/Class-Diagram.png)
+![Lesson 4 Class Diagram](../images/Class-Diagram.png)
 ###### Deployment Diagram
-![Lesson 4 Deployment Diagram](../PlantUML/Deployment-Diagram.png)
+![Lesson 4 Deployment Diagram](../images/Deployment-Diagram.png)
 
 _____
 

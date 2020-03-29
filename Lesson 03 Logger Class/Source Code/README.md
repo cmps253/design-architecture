@@ -1,4 +1,4 @@
-<img style="float: right;" src="../Images/aublogosmall.png"> 
+<img style="float: right;" src="../../Images/aublogosmall.png"> 
 
 **CMPS 253 Software Engineering - Spring 2019-2020 \
 Mahmoud Bdeir \
@@ -49,17 +49,17 @@ namespace Logger.Lesson3
 
 
 ###### Class Diagram
-![Lesson 3 Class Diagram](./PlantUML/Class-Diagram.png)
+![Lesson 3 Class Diagram](../images/Class-Diagram.png)
 ###### Deployment Diagram
-![Lesson 3 Deployment Diagram](./PlantUML/Deployment-Diagram.png)
+![Lesson 3 Deployment Diagram](../images/Deployment-Diagram.png)
 ____
 
-![problem icon](../Images/problem.png 'Problem') You can’t easily share the `Logger` class with other applications. Sharing the source code of `Logger` is never a solution.
+![problem icon](../../Images/problem.png 'Problem') You can’t easily share the `Logger` class with other applications. Sharing the source code of `Logger` is never a solution.
 
 <table style='width=100%;'>
 <tr>
-<td><a href="../../../tree/master/Lesson%2002%20Log%20Method"><img src='../Images/leftarrow.png'> Back</a></td>
+<td><a href="../../../../tree/master/Lesson%2002%20Log%20Method"><img src='../../Images/leftarrow.png'> Back</a></td>
 <td width="100%"></td>
-<td><a href="../../../tree/master/Lesson%2004%20Logger%20Library/Source%20Code"><img src='../Images/rightarrow.png'> Next</a></td>
+<td><a href="../../../../tree/master/Lesson%2004%20Logger%20Library/Source%20Code"><img src='../../Images/rightarrow.png'> Next</a></td>
 </tr>
 </table>

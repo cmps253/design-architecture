@@ -32,9 +32,9 @@ namespace Logger.Lesson1
 ```
 
 ###### Class Diagram
-![Lesson 1 Class Diagram](../PlantUML/Class-Diagram.png)
+![Lesson 1 Class Diagram](../images/Class-Diagram.png)
 ###### Deployment Diagram
-![Lesson 1 Deployment Diagram](../PlantUML/Deployment-Diagram.png)
+![Lesson 1 Deployment Diagram](../images/Deployment-Diagram.png)
 
 
 _____

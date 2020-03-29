@@ -39,9 +39,9 @@ namespace Lesson6.Solution0
 ```
 
 ###### Class Diagram
-![Lesson 6 Class Diagram](../PlantUML/Class-Diagram.png)
+![Lesson 6 Class Diagram](../images/Class-Diagram.png)
 ###### Deployment Diagram
-![Lesson 6 Deployment Diagram](../PlantUML/Deployment-Diagram.png)
+![Lesson 6 Deployment Diagram](../images/Deployment-Diagram.png)
 
 ____
 ![problem icon](../../../Images/problem.png 'Problem') You can use this method in the `Program` class only. How do you share it with other classes? Making the method public allows other classes to call on this method. However, doing so would defeat SRP:

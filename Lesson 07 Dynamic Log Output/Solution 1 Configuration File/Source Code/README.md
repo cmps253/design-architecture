@@ -159,9 +159,9 @@ driver.exe
 _____
 
 ###### Class Diagram
-![Lesson 6 Class Diagram](../PlantUML/Class-Diagram.png)
+![Lesson 6 Class Diagram](../images/Class-Diagram.png)
 ###### Deployment Diagram
-![Lesson 6 Deployment Diagram](../PlantUML/Deployment-Diagram.png)
+![Lesson 6 Deployment Diagram](../images/Deployment-Diagram.png)
 
 ____
 

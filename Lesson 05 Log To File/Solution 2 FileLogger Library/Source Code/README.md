@@ -29,9 +29,9 @@ ____
 Note that there is no need to change any code (same class diagram), we only need to move the `FileLogger` class to a new Library.
 
 ###### Class Diagram
-![Lesson 5 Class Diagram](../PlantUML/Class-Diagram.png)
+![Lesson 5 Class Diagram](../images/Class-Diagram.png)
 ###### Deployment Diagram
-![Lesson 5 Deployment Diagram](../PlantUML/Deployment-Diagram.png)
+![Lesson 5 Deployment Diagram](../images/Deployment-Diagram.png)
 
 ____
 
