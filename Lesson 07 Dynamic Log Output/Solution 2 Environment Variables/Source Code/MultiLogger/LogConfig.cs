@@ -21,7 +21,7 @@ namespace Lesson7.Solution2
             string targets = Environment.GetEnvironmentVariable("targets");
             if (targets == null)
             {
-                targets = DefaultTargetsLine.ToUpper();
+                targets = DefaultTargetsLine.Split('=')[1].ToUpper();
             }
 
             //determine what which target(s) to output to
