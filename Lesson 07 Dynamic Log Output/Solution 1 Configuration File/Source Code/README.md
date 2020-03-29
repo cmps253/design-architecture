@@ -7,7 +7,7 @@ Mahmoud Bdeir**
 
 ## Lesson 7.1: Configuration Files
 
-#### User Story 3: Multiple Output Logging
+#### User Story 3: Selective Log Targets
 ![user story](../../../Images/userstory.png 'User Story')*US3*: As a user of a software that uses Logger, I would like to output to multiple targets *(File, Console, etc.)* when I run the program.
 
 Sometimes the configuration info needed by a class or component --in this case the `MultiLogger` class-- is too complicated to be passed-in as a command-line argument, and, more importantly, the user may override these changes as a set of preferences at runtime. In cases like that, a command-line argument is not an option. Instead, we use configuration files.

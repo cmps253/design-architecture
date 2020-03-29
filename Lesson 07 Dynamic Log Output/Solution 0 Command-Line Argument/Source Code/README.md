@@ -5,9 +5,9 @@ American University of Beirut \
 Mahmoud Bdeir**
 
 
-## Lesson 7.0: Dynamic Log Output (Abstraction Through Classes, SRP, SoC)
+## Lesson 7.0: Selective Log Targets (Abstraction Through Classes, SRP, SoC)
 
-#### User Story 3: Multiple Output Logging
+#### User Story 3: Selective Log Targets 
 ![user story](../../../Images/userstory.png 'User Story')*US3*: As a user of a software that uses Logger, I would like to output to multiple targets *(File, Console, etc.)* when I run the program.
 
 Logging is configured by the end-user of a software application that employs logging. This configuration entails, among other things, which target(s) to output to. Because this happens at runtime, user-input may be provided to the program when it is started in the form of command-line arguments. The question then becomes, which class/component gets those arguments. 

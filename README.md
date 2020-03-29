@@ -23,10 +23,13 @@ ____
 [Lesson 6.0: Log Method](./Lesson%2006%20Multiple%20Output%20Log/Solution%200%20Log%20Method/Source%20Code) <img src='./Images/review.gif'> \
 [Lesson 6.1: MultiLogger Class and Library](./Lesson%2006%20Multiple%20Output%20Log/Solution%201%20MultiLogger%20Class%20and%20Library/Source%20Code) <img src='./Images/review.gif'>
 ____
-**User Story 3: Dynamic Log Output** *(Run-time Configuration Of Objects)* \
+**User Story 3: Selective Log Targets** *(Run-time Configuration Of Objects)* \
 [Lesson 7.0: Command Line Argument](./Lesson%2007%20Dynamic%20Log%20Output/Solution%200%20Command-Line%20Argument/Source%20Code) \
 [Lesson 7.1: Configuration File](./Lesson%2007%20Dynamic%20Log%20Output/Solution%201%20Configuration%20File/Source%20Code) \
 [Lesson 7.2: Environment Variables](./Lesson%2007%20Dynamic%20Log%20Output/Solution%202%20Environment%20Variables/Source%20Code) 
+____
+**User Story 4: Customizable Log Output Formatting** \
+[Lesson 8.0: Design Choices <span style='color:green;font-size:1em;'>*(Don't Repeat Yourself)*</span>](./Lesson%2007%20Dynamic%20Log%20Output/Solution%200%20Command-Line%20Argument/Source%20Code) 
 ____
 
 

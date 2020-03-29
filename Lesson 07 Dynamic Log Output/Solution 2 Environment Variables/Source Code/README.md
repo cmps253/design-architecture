@@ -7,7 +7,7 @@ Mahmoud Bdeir**
 
 ## Lesson 7.2: Environment Variables
 
-#### User Story 3: Multiple Output Logging
+#### User Story 3: Selective Log Targets
 ![user story](../../../Images/userstory.png 'User Story')*US3*: As a user of a software that uses Logger, I would like to output to multiple targets *(File, Console, etc.)* when I run the program.
 
 Sometimes configuration info needed by a class or component --in this case the `MultiLogger` class-- is too sensitive to be stored as plain text in a configuration file. In cases like that, a configuration file is either encrypted or not used at all. Instead, we use environment variables to pass configuration data to a class/component. Operating systems, use configuration files heavily.
