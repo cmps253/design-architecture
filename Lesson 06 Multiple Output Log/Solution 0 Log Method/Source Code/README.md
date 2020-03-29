@@ -51,6 +51,6 @@ ____
 <tr>
 <td><a href="../../../Lesson%2005%20Log%20To%20File/Solution%202%20Refactored/Source%20Code"><img src='../../../Images/leftarrow.png'> Back</a></td>
 <td width="100%"></td>
-<td><a href="../../../tree/master/Lesson%2003%20Logger%20Class"><img src='../../../Images/rightarrow.png'> Next</a></td>
+<td><a href="../../Solution%201%20MultiLogger%20Class%20and%20Library/Source%20Code"><img src='../../../Images/rightarrow.png'> Next</a></td>
 </tr>
 </table>
