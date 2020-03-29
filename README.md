@@ -29,7 +29,7 @@ ____
 [Lesson 7.2: Environment Variables](./Lesson%2007%20Dynamic%20Log%20Output/Solution%202%20Environment%20Variables/Source%20Code) 
 ____
 **User Story 4: Customizable Log Output Formatting** \
-[Lesson 8.0: Design Choices <span style='color:green;font-size:1em;'>*(Don't Repeat Yourself)*</span>](./Lesson%2007%20Dynamic%20Log%20Output/Solution%200%20Command-Line%20Argument/Source%20Code) 
+[Lesson 8.0: Design Choices <span style='color:green;font-size:1em;'>*(Don't Repeat Yourself)*</span>](./Lesson%2008%20Uniform%20Log%20Formatting/Source%20Code) 
 ____
 
 
