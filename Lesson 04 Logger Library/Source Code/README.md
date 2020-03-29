@@ -10,7 +10,7 @@ American University of Beirut**
 
 <a href="./"><img src='../../Images/code.png'> Source Code</a>
 
-In order to be able to reuse the `Logger` class in other projects we would need to share its depoloyment unit `Driver.exe`. However, `Driver.exe` is not a library, it is a standalone console application which cannot be shared with other projects. In addition, the current `Driver.exe` has dual concerns: perform program logic, *and* log. This is does not comply with a design principle called *Separation of Concerns* or SoC. 
+In order to be able to reuse the `Logger` class in other projects we would need to share its depoloyment unit `Driver.exe`. However, `Driver.exe` is not a library, it is a standalone console application which cannot be shared with other projects. In addition, the current `Driver.exe` has dual concerns: perform program logic, *and* log. This does not comply with a design principle called *Separation of Concerns* or SoC. 
 
 > Separation of Concerns or SoC per **Dijkstra**: Let me try to explain to you, what to my taste is characteristic for all intelligent thinking. It is, that one is willing to study in depth an aspect of one's subject matter in isolation for the sake of its own consistency, all the time knowing that one is occupying oneself only with one of the aspects... It is what I sometimes have called “the separation of concerns”, which, even if not perfectly possible, is yet the only available technique for effective ordering of one's thoughts, that I know of. 
 
