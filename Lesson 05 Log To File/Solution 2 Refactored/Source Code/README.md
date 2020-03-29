@@ -75,7 +75,7 @@ namespace Lesson5.Solution2Refactored
 
 <table style='width=100%;'>
 <tr>
-<td><a href="../Lesson%2005%20Log%20To%20File/Solution%201%20FileLogger%20Class/Source%20Code"><img src='../../../Images/leftarrow.png'> Back</a></td>
+<td><a href="../../Solution%202%20FileLogger%20Library/Source%20Code"><img src='../../../Images/leftarrow.png'> Back</a></td>
 <td width="100%"></td>
 <td><a href="../../../Lesson 06 Multiple Output Log/Solution 0 Log Method/Source Code"><img src='../../../Images/rightarrow.png'> Next</a></td>
 </tr>
