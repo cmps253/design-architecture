@@ -40,7 +40,7 @@ ____
 <tr>
 <td><a href="../../Solution%201%20FileLogger%20Class/Source%20Code/"><img src='../../../Images/leftarrow.png'> Back</a></td>
 <td width="100%"></td>
-<td><a href="../Lesson%2006/Driver/README.md"><img src='../../../Images/rightarrow.png'> Next</a></td>
+<td><a href="./Lesson%2005%20Log%20To%20File/Solution%202%20FileLogger%20Library/Source%20Code"><img src='../../../Images/rightarrow.png'> Next</a></td>
 </tr>
 </table>
 
