@@ -69,9 +69,9 @@ namespace Lesson5.Solution2Refactored
 }
 ```
 ###### Class Diagram
-![Lesson 5 Solution 1 Class Diagram](https://www.plantuml.com/plantuml/img/VS-n2i9030RW_PuYerBl1QH3GN7IuYuEmPxnuEu2oRKTn7Ut5IkAufhy7tzIQKR9RGocE0LKXHKdvU2sJEG4hWQWwDWtC0ncciKdWgWqDxS9RFp_z7dOrnZT0dxolJ09neUTz0vzUlB34L18H_1ML5hnTCdsfPVGgbFpUNnfrzodhr3bKZC-REu0)
+![Lesson 5 Solution 1 Class Diagram](../images/Class-Diagram.png)
 ###### Deployment Diagram
-![Lesson 6 Solution 1 Deployment Diagram](https://www.plantuml.com/plantuml/img/SoWkIImgAStDuUBAoqz9LL1oASeiIotIIwr8LLAevb80WkY0elpqeiJSMAvQ1QWYv_oyuloSL9_yz7IWsfIS7BXQ51aa7MwPM9KZXC5gkU1sAUYcv9VdwTgXcwXWLLgSMenD7P9HK4KEgNafG9y10000)
+![Lesson 6 Solution 1 Deployment Diagram](../images/Deployment-Diagram.png)
 
 <table style='width=100%;'>
 <tr>
