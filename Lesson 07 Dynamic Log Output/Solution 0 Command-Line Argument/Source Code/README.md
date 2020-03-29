@@ -12,18 +12,16 @@ Mahmoud Bdeir**
 
 Logging is configured by the end-user of a software application that employs logging. This configuration entails, among other things, which target(s) to output to. Because this happens at runtime, user-input may be provided to the program when it is started in the form of command-line arguments. The question then becomes, which class/component gets those arguments. 
 
-##### Solution 0: AllLogger Configuration through command-line argument
-One way is to let the `Main` method that gets these arguments decide where to log. But it should be immediately clear that it would not be the right thing to do (mixing program logic with logging logic, i.e. no SRP), we have an `AllLogger` class that takes care of logging so why not make it determine the target(s).
+##### Solution 0: MultiLogger Configuration through command-line argument
+One way is to let the `Main` method that gets these arguments decide where to log. But it should be immediately clear that it would not be the right thing to do (mixing program logic with logging logic, i.e. no SRP), we have an `MultiLogger` class that takes care of logging so why not make it determine the target(s).
 
-Now that we decided to let `AllLoger` take care of determining the output targets by passing it a string retrieved from a command-line argument, the question becomes do we pass it to the `Log` method of AllLogger? We can, but this will require the user (programmer) to pass the command-line argument in **each** call to `Log`. That is certainly an inconvenience, but also, is unnecessary because it is not how logging works, i.e. users of loggers do not need to determine in each log call which output to target.
+Now that we decided to let `AllLoger` take care of determining the output targets by passing it a string retrieved from a command-line argument, the question becomes do we pass it to the `Log` method of MultiLogger? We can, but this will require the user (programmer) to pass the command-line argument in **each** call to `Log`. That is certainly an inconvenience, but also, is unnecessary because it is not how logging works, i.e. users of loggers do not need to determine in each log call which output to target.
 
-A better approach is to pass the command-line argument, one-time only. To achieve this, we will force the instantiation of `AllLogger` class to use it. This means the `Log` method will no longer be *static*, and we will provide an overloaded constructor were a string parameter will be passed representing the user's input for selecting output targets.
+A better approach is to pass the command-line argument, one-time only. To achieve this, we will force the instantiation of `MultiLogger` class to use it. This means the `Log` method will no longer be *static*, and we will provide an overloaded constructor were a string parameter will be passed representing the user's input for selecting output targets.
 
 
 ```C#
 namespace Lesson7.Solution0
-
-namespace MultiLogger
 {
     [Flags]
     public enum LogDestination

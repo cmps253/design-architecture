@@ -9,7 +9,7 @@ Mahmoud Bdeir**
 
 There is a subtle but important design flaw in what we did so far: if the programmer is asked to change the outpout format
 
-Sometimes configuration info needed by a class or component --in this case the `AllLogger` class-- is too sensitive to be stored as plain text in a configuration file. In cases like that, a configuration file is either encrypted or not used at all. Instead, we use environment variables to pass configuration data to a class/component. Operating systems, use configuration files heavily.
+Sometimes configuration info needed by a class or component --in this case the `MultiLogger` class-- is too sensitive to be stored as plain text in a configuration file. In cases like that, a configuration file is either encrypted or not used at all. Instead, we use environment variables to pass configuration data to a class/component. Operating systems, use configuration files heavily.
 
 
 > From [Wikipedia](https://en.wikipedia.org/wiki/Environment_variable): An environment variable is a dynamic-named value that can affect the way running processes will behave on a computer. They are part of the environment in which a process runs. For example, a running process can query the value of the TEMP environment variable to discover a suitable location to store temporary files, or the HOME or USERPROFILE variable to find the directory structure owned by the user running the process. They were introduced in their modern form in 1979 with Version 7 Unix *(predecessor of Linux)*.
@@ -22,8 +22,8 @@ For example, if you type `notepad.exe` or simply `notepad` on a command prompt u
 * Mac OS follow this [link](https://medium.com/@youngstone89/setting-up-environment-variables-in-mac-os-28e5941c771c)
 * Ubuntu follow this [link](https://mkyong.com/linux/how-to-set-environment-variable-in-ubuntu/)
 
-##### Solution 2: AllLogger Configuration Through Environment Variables
-![idea](../../Images/idea.png)Similar to Configuration Files, an advantage of using a environment variables is that, finally, we do no longer need to pass the log filename as a parameter to `AllLogger.Log`. We were passing that parameter even when only console logging was required.
+##### Solution 2: MultiLogger Configuration Through Environment Variables
+![idea](../../Images/idea.png)Similar to Configuration Files, an advantage of using a environment variables is that, finally, we do no longer need to pass the log filename as a parameter to `MultiLogger.Log`. We were passing that parameter even when only console logging was required.
 
 ```
 #environment variables

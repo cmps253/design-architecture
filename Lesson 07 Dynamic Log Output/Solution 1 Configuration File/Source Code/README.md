@@ -10,7 +10,7 @@ Mahmoud Bdeir**
 #### User Story 3: Multiple Output Logging
 ![user story](../../../Images/userstory.png 'User Story')*US3*: As a user of a software that uses Logger, I would like to output to multiple targets *(File, Console, etc.)* when I run the program.
 
-Sometimes the configuration info needed by a class or component --in this case the `AllLogger` class-- is too complicated to be passed-in as a command-line argument, and, more importantly, the user may override these changes as a set of preferences at runtime. In cases like that, a command-line argument is not an option. Instead, we use configuration files.
+Sometimes the configuration info needed by a class or component --in this case the `MultiLogger` class-- is too complicated to be passed-in as a command-line argument, and, more importantly, the user may override these changes as a set of preferences at runtime. In cases like that, a command-line argument is not an option. Instead, we use configuration files.
 
 
 > From [Wikipedia](https://en.wikipedia.org/wiki/Configuration_file): In computing, configuration files (commonly known simply as config files) are files used to configure the parameters and initial settings for some computer programs. They are used for user applications, server processes and operating system settings. Some applications provide tools to create, modify, and verify the syntax of their configuration files; these sometimes have graphical interfaces. For other programs, system administrators may be expected to create and modify files by hand using a text editor; possible because many are human-editable plain text files. For server processes and operating-system settings, there is often no standard tool, but operating systems may provide their own graphical interfaces such as YaST or debconf.
@@ -25,8 +25,8 @@ For example, if you use VSCode as a code editor, you are probably familiar with 
 
 
 
-##### Solution 1: AllLogger Configuration Through A Configuration File
-![idea](../../../Images/idea.png)An advantage of using a configuration file is that, finally, we do no longer need to pass the log filename as a parameter to `AllLogger.Log`. We were passing that parameter even when only console logging was required.
+##### Solution 1: MultiLogger Configuration Through A Configuration File
+![idea](../../../Images/idea.png)An advantage of using a configuration file is that, finally, we do no longer need to pass the log filename as a parameter to `MultiLogger.Log`. We were passing that parameter even when only console logging was required.
 
 ```
 #log.config

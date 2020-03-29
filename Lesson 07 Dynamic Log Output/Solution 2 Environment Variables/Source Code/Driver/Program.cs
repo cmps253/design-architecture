@@ -6,7 +6,7 @@ namespace Lesson7.Solution2
     {
         static void Main(string[] args)
         {
-            MultiLogger logger = new MultiLogger(LogConfig.CreateFromFile());
+            MultiLogger logger = new MultiLogger(LogConfig.CreateFromEnvironment());
 
             //Ready to start logging
             logger.Log("Program Started"); //finally got rid of the pesky file name parameter for logging to file
