@@ -45,6 +45,6 @@ _____
 <tr>
 <td><a href="../../../../"><img src='../../Images/leftarrow.png'> Back</a></td>
 <td width="100%"></td>
-<td><a href="../../../../tree/master/Lesson%2002%20Log%20Method"><img src='../../Images/rightarrow.png'> Next</a></td>
+<td><a href="../../../../tree/master/Lesson%2002%20Log%20Method/Source%20Code"><img src='../../Images/rightarrow.png'> Next</a></td>
 </tr>
 </table>
