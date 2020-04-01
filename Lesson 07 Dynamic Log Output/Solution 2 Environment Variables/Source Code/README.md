@@ -58,7 +58,7 @@ namespace Lesson7.Solution2
     public class LogConfig
     {
         private const string LogFile = ".//log.config";
-        private const string DefaultTargetsLine = @"\ntargets=fc\n";
+        private const string DefaultTargetsLine = "\ntargets=fc\n";
         private const string DefaultFileLoggerFile= "log.txt";
 
         public LogDestination LogDestination { get; private set; } = LogDestination.None; //read-only property, also initialized to a value. Thank you C#..
