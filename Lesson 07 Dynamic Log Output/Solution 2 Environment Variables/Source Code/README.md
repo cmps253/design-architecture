@@ -44,7 +44,7 @@ namespace Lesson7.Solution2
         None=0,
         Console=1,
         File=2,
-        Both=4,
+        Both=3,
     }
 }
 ```
