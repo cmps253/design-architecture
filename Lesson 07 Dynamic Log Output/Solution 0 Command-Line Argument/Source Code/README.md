@@ -17,7 +17,7 @@ One way is to let the `Main` method that gets these arguments decide where to lo
 
 Now that we decided to let `AllLoger` take care of determining the output targets by passing it a string retrieved from a command-line argument, the question becomes do we pass it to the `Log` method of MultiLogger? We can, but this will require the user (programmer) to pass the command-line argument in **each** call to `Log`. That is certainly an inconvenience, but also, is unnecessary because it is not how logging works, i.e. users of loggers do not need to determine in each log call which output to target.
 
-A better approach is to pass the command-line argument, one-time only. To achieve this, we will force the instantiation of `MultiLogger` class to use it. This means the `Log` method will no longer be *static*, and we will provide an overloaded constructor were a string parameter will be passed representing the user's input for selecting output targets.
+A better approach is to pass the command-line argument, one-time only. To achieve this, we will force the instantiation of `MultiLogger` class to use it. This means the `Log` method will no longer be *static*, and we will provide an overloaded constructor where a string parameter will be passed representing the user's input for selecting output targets.
 
 
 ```C#
