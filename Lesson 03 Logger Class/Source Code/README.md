@@ -40,7 +40,7 @@ namespace Logger.Lesson3
         static void Main(string[] args) //send email to all students
         {
             Logger.Log("Program Started");
-            Thread.Sleep(3000); //Simulating work by having the progr
+            Thread.Sleep(3000); //Simulating work by having the program sleep for 3 seconds
             Logger.Log("Program Ended");
         }
     }
