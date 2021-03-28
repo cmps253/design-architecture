@@ -14,7 +14,7 @@ In order to be able to reuse the `Logger` class in other projects we would need 
 
 > Separation of Concerns or SoC per **Dijkstra**: Let me try to explain to you, what to my taste is characteristic for all intelligent thinking. It is, that one is willing to study in depth an aspect of one's subject matter in isolation for the sake of its own consistency, all the time knowing that one is occupying oneself only with one of the aspects... It is what I sometimes have called “the separation of concerns”, which, even if not perfectly possible, is yet the only available technique for effective ordering of one's thoughts, that I know of. 
 
-The sensible solution thus, is be to move `Logger` to its own library. 
+The sensible solution thus, is to move `Logger` to its own library. 
 
 
 
@@ -42,7 +42,7 @@ namespace Logger.Solution4
         static void Main(string[] args) //send email to all students
         {
             Logger.Log("Program Started");
-            Thread.Sleep(3000); //Simulating work by having the progr
+            Thread.Sleep(3000); //Simulating work by having the program sleep for 3 seconds
             Logger.Log("Program Ended");
         }
     }
