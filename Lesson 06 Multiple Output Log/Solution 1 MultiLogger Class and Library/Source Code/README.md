@@ -10,7 +10,7 @@ Mahmoud Bdeir**
 #### User Story 2: Multiple Output Logging
 ![user story](../../../Images/userstory.png 'User Story')*US2*: As a programmer, I would like to log to a both file and console at the same time.
 
-A solution would be to use a method to do the logging to both File and Consle. This way you guarantee uniform log output (for example: time followed by message) and we achieve Reusability. Because we did encounter a similar scenario with Lesson 5 when we added a `FileLogger` and ended up deploying it in its own libray, we will follow the same pattern here: The `MultiLogger` class will be deployed in its own `MultiLogger.dll`
+A solution would be to use a method to do the logging to both File and Consle. This way you guarantee uniform log output (for example: time followed by message) and we achieve Reusability. Because we did encounter a similar scenario with Lesson 5 when we added a `FileLogger` and ended up deploying it in its own library, we will follow the same pattern here: The `MultiLogger` class will be deployed in its own `MultiLogger.dll`
 > Software Reusability is an attribute that refers to the expected reuse potential of a software component. Software reuse not only improves productivity but also has a positive impact on the quality and maintainability of software products.
 
 ```C#
